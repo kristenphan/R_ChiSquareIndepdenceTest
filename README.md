@@ -12,4 +12,4 @@ If you're currently taking the same course, please refrain yourself from checkin
 <br/>
 __Assignment Description:__
 <br/>
-Formulate and address a research question pertaining to the General Social Survey (GSS) by a chi-square independence test
+Formulate and address a research question pertaining to the General Social Survey (GSS) by performing a chi-square independence test.
