@@ -12,4 +12,4 @@ If you're currently taking the same course, please refrain yourself from checkin
 <br/>
 __Assignment Description:__
 <br/>
-Formulate and address a research question pertaining to the General Social Survey (GSS) by performing a chi-square independence test. Out of scope for this assignment is to further analyze the nature of the association (linear association ie. correlation or non-linear), if any.
+As some people might argue being religous and engaging religous activites have a positive impact on their perspectives and satisfaction. In this analysis, we will perform a chi-square test on the General Social Survey dataset (GSS) to determine whether religious engagement and financial satisfaction are associated. Out of scope for this assignment is to analyze the nature of the association (linear association ie. Correlation or non-linear), if any. 
